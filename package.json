@@ -29,7 +29,7 @@
   "dependencies": {
     "form-urlencoded": "^2.0.4",
     "is-plain-object": "^2.0.4",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "jsonapi-datastore": "^0.4.0-beta"
   },
   "devDependencies": {
