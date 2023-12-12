@@ -40,7 +40,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "babel-tape-runner": "^2.0.1",
     "es6-promise": "^3.0.2",
-    "eslint": "^3.16.1",
+    "eslint": "^8.55.0",
     "eslint-config-patreon": "2.0.0",
     "eslint-plugin-react": "^6.10.0",
     "express": "^4.16.2",
